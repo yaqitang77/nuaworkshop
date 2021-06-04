@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+/* h1 {
+    color: rgba(34, 216, 34,0.1);
+    font-size: 5rem;
+  }
+  .workshop{
+width: 300px;
+height: 200px;
+background-color: rgb(193, 216, 61);
+border:  rgb(243, 24, 115);
+border-radius: 2rem;
+opacity: 0.5;
+color: rgb(0, 4, 255);
+color修饰的是文字
+font-size: 72px;
+font-family: 'Dancing Script', cursive; */
+
+/* /* background-image:url('/img/1.jpeg');
+background-size: contain;
+background-size: no-repeat;
+平铺，no-repeat不重复
+background-size: cover;
+自动撑满填充  */
+
+/* padding-top: 150px;
+margin: 200px 100px 100px 20px;
+上右下左 */
+
+
+/* .item {
+    border: 1px solid #aaa;
+    padding: 1rem;
+  }
+  
+  .selected {
+    background-color: rgb(61, 255, 13);
+  } */
+  
+  /* #main-menu {
+    display: flex;
+    width: 700px;
+    flex-direction: row;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+  }
+
+  #main-menu div {
+    color: rgb(93, 253, 0);
+    font-size: 50px;
+  }
+  #main-menu div:hover {
+    color: lightcoral;
+    font-size: 72px;
+    cursor: pointer;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: lighter;
+  } */
+
+.container {
+width: 1000px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+background-color: rgb(175, 175, 175);
+width: 500px;
+height: 50px;
+}
+
+.container button {
+font-family: 'Dancing Script', cursive; 
+}
+
+.container button:hover {
+background-color: rgb(0, 89, 255);
+color: rgb(255, 7, 160);
+ }
